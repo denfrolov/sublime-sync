@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Autoprefixer",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPick",
+		"ColorPicker",
+		"Emmet",
+		"Gist",
+		"Git",
+		"Goto-CSS-Declaration",
+		"Gulp",
+		"Gutter Color",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"jQuery",
+		"LiveReload",
+		"Material Theme",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"Sync Settings",
+		"Terminal",
+		"WebFont",
+		"WordPress"
+	]
+}

@@ -1,0 +1,1 @@
+{"description": "Run Gulp tasks and use snippets from Sublime Text", "version": "6.1.0", "sublime_text": "*", "dependencies": [], "platforms": ["*"], "url": "https://sublime-gulp.nicosantangelo.com/"}
