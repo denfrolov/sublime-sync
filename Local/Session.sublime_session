@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Denis/Desktop/Gulp-html",
 		"/C/xampp/htdocs/koni-klyazma.local",
 		"/C/xampp/htdocs/ecroline.local/wp-content/themes/eroline",
 		"/C/Users/Denis/Desktop/Denfrolov",
@@ -515,6 +516,15 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/C/Users/Denis/Desktop/Gulp-html/gulpfile.js",
+					"settings":
+					{
+						"buffer_size": 4149,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -601,11 +611,14 @@
 			},
 			"expanded_folders":
 			[
-				"/C/xampp/htdocs/koni-klyazma.local/wp-content/themes",
-				"/C/xampp/htdocs/koni-klyazma.local/wp-content/themes/koni-klyazma"
+				"/C/Users/Denis/Desktop/Gulp-html",
+				"/C/Users/Denis/Desktop/Gulp-html/app"
 			],
 			"file_history":
 			[
+				"/C/Users/Denis/Desktop/Gulp-html/gulpfile.js",
+				"/C/Users/Denis/Desktop/Gulp-html/package.json",
+				"/C/Users/Denis/Desktop/Gulp-html/app/index.html",
 				"/C/xampp/htdocs/koni-klyazma.local/wp-comments-post.php",
 				"/C/xampp/htdocs/koni-klyazma.local/license.txt",
 				"/C/xampp/htdocs/koni-klyazma.local/rk4o3l0g.txt",
@@ -730,10 +743,7 @@
 				"/C/Users/Denis/Downloads/ecroline.sql",
 				"/C/Users/Denis/Documents/www/Platinum Horse/wp-config.php",
 				"/C/xampp/htdocs/ecroline.local/wp-content/themes/eroline/css/_page.sass",
-				"/C/xampp/htdocs/ecroline.local/wp-content/themes/eroline/css/_fonts.sass",
-				"/C/xampp/htdocs/ecroline.local/wp-content/themes/eroline/.htaccess",
-				"/c/users/denis/appdata/local/temp/options-framework.php",
-				"/C/xampp/htdocs/ecroline.local/wp-content/themes/eroline/template-parts/content.php"
+				"/C/xampp/htdocs/ecroline.local/wp-content/themes/eroline/css/_fonts.sass"
 			],
 			"find":
 			{
@@ -752,6 +762,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"\",",
 					"http://koni-klyazma.ru",
 					"false",
 					"127.0.0.1       ecroline.local",
@@ -878,8 +889,7 @@
 					"horer",
 					"# Header",
 					"0",
-					"#3894d2",
-					"200%"
+					"#3894d2"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -898,13 +908,138 @@
 			[
 				{
 					"path": "C:\\xampp\\htdocs\\koni-klyazma.local"
+				},
+				{
+					"path": "C:\\Users\\Denis\\Desktop\\Gulp-html"
 				}
 			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Denis/Desktop/Gulp-html/gulpfile.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4149,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1296,
+										1296
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1295,
+												1296
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1274,
+												1275
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 336.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
